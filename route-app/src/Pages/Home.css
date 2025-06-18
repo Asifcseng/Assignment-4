@@ -1,0 +1,27 @@
+.home {
+  /* background-color: #87807f; */
+  background-color: #7bed8c;
+}
+
+.home-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-content img {
+  width: 800px;
+  height: 400px;
+  border-radius: 20px;
+}
+.home-content h4 {
+  border: 0 solid black;
+  box-shadow: 2px;
+  background-color: #107a42;
+  color: white;
+  padding: 10px;
+}
+.home-content h4:hover {
+  background-color: #083b1f;
+  cursor: pointer;
+}

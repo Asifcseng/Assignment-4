@@ -1,0 +1,29 @@
+.user {
+  background-color: #7bed8c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.user-info {
+  border: 3px solid green;
+  border-radius: 2px;
+}
+
+.user-pic {
+  padding: 20px;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  color: #1e0954;
+}
+
+.user-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 0 10px;
+}

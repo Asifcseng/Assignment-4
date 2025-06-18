@@ -1,0 +1,22 @@
+.about-main {
+  background-color: #7bed8c;
+}
+.about-left {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  float: left;
+}
+.about-left img {
+  width: 800px;
+  height: 200px;
+}
+.about-right {
+  display: flex;
+  float: right;
+  padding: 20px;
+}
+.about-right img {
+  width: 800px;
+  height: 200px;
+}
